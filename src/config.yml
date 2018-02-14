@@ -1,0 +1,31 @@
+Itens:
+  Preco-Lore:
+    - ''
+    - '&7Preco: &8{preco}'
+    - ''
+  Picareta:
+    Preco: 10000.0
+    Nome: '&aPicareta pegadora de Spawn'
+    Lore:
+      - '&7Com essa picareta voce pode pegar os spawners'
+  MobSpawn-PIG:
+    Preco: 1000.0
+    Nome: '&aSpawner de Porco'
+    Lore:
+      - '&7Isso é um Spawner de Porco'
+# Voce pode usar {nl} para quebrar linha.
+Mensagens:
+  Quebrou: '&aVoce quebrou um MobSpawner de {tipo}'
+  Colocou: '&aVoce colocou um MobSpawner de {tipo}'
+  Comprou-Picareta: '&aVoce comprou a {nome}'
+  Comprou-MobSpawner: '&aVoce comprou a {nome}'
+  Inventario-Cheio: '&cSeu inventario esta cheio'
+  Sem-Dinheiro: '&cVoce não tem dinheiro suficiente'
+  Sem-Permissao: '&cVoce nao tem permissao para isso'
+
+Inventario:
+  Nome: '&9Loja de MobSpawners'
+  
+Permissao:
+  Quebrar: 'bspawners.quebrar'
+  Colocar: 'bspawners.colocar'

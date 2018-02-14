@@ -1,0 +1,9 @@
+name: bSpawners
+main: braayy.spawners.Spawners
+version: 1.0
+authors: [Braayy, WinX64]
+description: Plugin de MobSpawners personalizados.
+
+commands:
+  bspawns:
+    description: Comando para comprar MobSpawners e Picareta
