@@ -1,5 +1,5 @@
 # bSpawners
 Um Plugin de MobSpawners Personalizavel
 
-Mais informaÃ§Ãµes:
-[Post no PortalGaming](nada)
+Mais informações:
+[Post no PortalGaming](https://portalgaming.com.br/topic/304-bspawners-plugin-de-spawners-configuravel/)
